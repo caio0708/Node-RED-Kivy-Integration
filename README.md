@@ -16,7 +16,7 @@ Este projeto demonstra como integrar o framework Kivy com o Node-RED para captar
 1. Certifique-se de ter o Node-RED instalado em sua máquina.
 2. Abra o Node-RED em seu navegador (geralmente em http://localhost:1880).
 3. Importe os fluxos Node-RED fornecidos neste repositório.
-4. Configure os fluxos de saída para enviar mensagens para o aplicativo Kivy através de requisições HTTP.
+4. Personalize o bloco "Template" com a mensagem que você deseja enviar.
 
 Este projeto é apenas uma demonstração de conceito e pode ser estendido e adaptado para atender às necessidades específicas do seu projeto. Sinta-se à vontade para explorar, modificar e contribuir para o repositório!
 
